@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=akwanmaroso)](https://github.com/LordDashMe/github-contribution-stats/)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=akwanmaroso&layout=compact)
+
 
 Blog :
 - [Medium](https://medium.com/@akwanmaroso)
