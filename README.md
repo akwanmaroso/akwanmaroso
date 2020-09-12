@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=akwanmaroso&layout=compact)
+[![Akwan github stats](https://github-readme-stats.vercel.app/api?username=akwanmaroso&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Blog :
