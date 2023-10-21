@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akwanmaroso&label=Profile%20views&color=0e75b6&style=flat" alt="akwanmaroso" /> </p>
 
-- 🌱 I’m currently learning **system programming**
+- 🌱 I’m currently learning **web dev**
 
 - 📝 I regularly write articles on [https://akwanmaroso.netlify.app](https://akwanmaroso.netlify.app)
 
-- 💬 Ask me about **golang and rust**
+- 💬 Ask me about **golang and frontend tech**
 
 - 📫 How to reach me **akwanmaroso@gmail.com**
 
